@@ -1,0 +1,8 @@
+.card-img-top {
+    width: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+img {
+   margin: 30px auto;
+}

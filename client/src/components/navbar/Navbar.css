@@ -1,0 +1,21 @@
+.nav-item {
+    font-size: 22px;
+    font-weight: bold;
+    color:  black;
+    padding: 0px 10px;
+    background-color: cadetblue;
+    border-radius: 0px 10px;
+    margin: 3px;
+}
+
+.nav-item .nav-link {
+    color:  black !important;
+}
+.navbar-brand {
+    background-color: darkblue;
+    color: #fff !important;
+    padding: 2px 10px;
+    font-size: 35px !important;
+    font-weight: bold;
+    border-radius: 10px;
+}
